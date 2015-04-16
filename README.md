@@ -1,0 +1,2 @@
+CrazyCore for Bukkit
+====================
